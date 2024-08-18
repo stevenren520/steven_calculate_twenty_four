@@ -3,8 +3,7 @@ from itertools import permutations
 
 from PyQt5.QtCore import QRegExp
 from PyQt5.QtGui import QRegExpValidator
-from PyQt5.QtWidgets import QApplication, QDialog
-from PyQt5.QtWidgets import QMainWindow
+from PyQt5.QtWidgets import QDialog
 
 from twenty_count_ui import Ui_dialog
 
